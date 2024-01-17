@@ -18,8 +18,7 @@ Within the json config file, we have the following:
                "1b"]
 }
 ```
-In the list of graders, enter the names of the graders for the assigment. In the list of problems, enter 
-the problem numbers. Then run the main.py file. The output of the script is the following:
+In the list of graders, enter the names of the graders for the assignment. In the list of problems, enter the problem numbers. Then, run the main.py file. The output of the script is the following:
 ```
 Provided config file info: 
 Grader names: ['Bob', 'Tim', 'Joe']
