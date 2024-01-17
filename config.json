@@ -1,0 +1,9 @@
+{
+  "graders": ["Bob",
+              "Tim",
+              "Joe"],
+  "problems": ["0",
+               "1",
+               "1a",
+               "1b"]
+}
